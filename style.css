@@ -1,0 +1,35 @@
+header table td{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #ccc;
+}
+header table td a{
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+}
+header table{
+    border-spacing: 10px;
+    align-items: center;
+}
+main h1{
+    text-align: center;
+    font-size: 25px;
+}
+main h2{
+    text-align: center;
+}
+main table{
+    align-items: center;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+iframe {
+    width: 300px;
+    height: 200px;
+}
+footer a{
+    text-decoration: none;
+}
